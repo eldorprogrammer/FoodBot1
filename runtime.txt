@@ -1,1 +1,6 @@
-python-3.11.9
+aiogram
+SQLAlchemy
+aiosqlite
+asyncpg
+python-dotenv
+alembic
